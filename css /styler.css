@@ -4,3 +4,10 @@ body{
     height: 100%;
     background-color: rgb(99, 220, 156); 
 }
+header{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: blueviolet;
+    }
+
