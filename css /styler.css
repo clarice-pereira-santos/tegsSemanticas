@@ -23,7 +23,7 @@ header nav{
     display: flex;
 justify-content: center;
 align-items: center;
-color:aliceblue
+color:aliceblue;
 }
 
 nav ul{
@@ -31,14 +31,13 @@ nav ul{
     display:flex;
     flex-direction: row;
     justify-content:center;
-    align-items:none;
+    align-items:center;
     list-style: none;
     height: var(--height-default);
     margin: auto;
 }
 
 ul li{
-
     position: relative;
     margin-right: 1em; 
 }
